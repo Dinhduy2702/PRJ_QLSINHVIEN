@@ -1,0 +1,2 @@
+Sinh viên {Mã sinh viên: 1, Tên sinh viên: duy, Điểm: 9.0, Xếp loại: Giỏi}
+Sinh viên {Mã sinh viên: 2, Tên sinh viên: tam, Điểm: 8.0, Xếp loại: Giỏi}
