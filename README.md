@@ -28,12 +28,24 @@ Một ứng dụng Java đơn giản dùng để quản lý thông tin sinh viê
 
 ## 📂 Cấu trúc thư mục
 
+```
 src/
 ├── Main.java
 ├── SinhVien.java
 └── StudentManager.java
+```
 
 ## ✅ Cách chạy chương trình
+
 ```bash
 javac *.java
 java Main
+```
+
+## 👤 Tác giả
+
+```
+- Họ tên: Cấn Đình DuyDuy
+- Email: candinhduy2702@gmail.comcom
+- Ngày hoàn thành: 07/05/2025
+```
